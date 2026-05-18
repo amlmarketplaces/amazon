@@ -1,0 +1,114 @@
+{
+  "name": "amazon",
+  "owner": {
+    "name": "Amazon"
+  },
+  "description": "Claude Code marketplace federating every @amlplugins/amazon-* plugin under a single marketplace source.",
+  "plugins": [
+    {
+      "name": "amazon-bedrock",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/amazon-bedrock.git"
+      }
+    },
+    {
+      "name": "amazon-cloudfront",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/amazon-cloudfront.git"
+      }
+    },
+    {
+      "name": "amazon-cognito",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/amazon-cognito.git"
+      }
+    },
+    {
+      "name": "amazon-comprehend",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/amazon-comprehend.git"
+      }
+    },
+    {
+      "name": "amazon-dynamodb",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/amazon-dynamodb.git"
+      }
+    },
+    {
+      "name": "amazon-ec2",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/amazon-ec2.git"
+      }
+    },
+    {
+      "name": "amazon-ecs",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/amazon-ecs.git"
+      }
+    },
+    {
+      "name": "amazon-lambda",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/amazon-lambda.git"
+      }
+    },
+    {
+      "name": "amazon-polly",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/amazon-polly.git"
+      }
+    },
+    {
+      "name": "amazon-rds",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/amazon-rds.git"
+      }
+    },
+    {
+      "name": "amazon-rekognition",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/amazon-rekognition.git"
+      }
+    },
+    {
+      "name": "amazon-s3",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/amazon-s3.git"
+      }
+    },
+    {
+      "name": "amazon-ses",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/amazon-ses.git"
+      }
+    },
+    {
+      "name": "amazon-sns",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/amazon-sns.git"
+      }
+    },
+    {
+      "name": "amazon-sqs",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/amazon-sqs.git"
+      }
+    }
+  ]
+}
